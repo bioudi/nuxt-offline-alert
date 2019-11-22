@@ -1,0 +1,25 @@
+{
+    "private": false,
+    "name": "nuxt-offline-alert",
+    "version": "0.0.1",
+    "description": "a simple vue alert for connection lost using nuxt helper",
+    "author": "Amine Bioudi",
+    "license": "MIT",
+    "main": "./dist/index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/your-user/repo-url.git"
+    },
+    "scripts": {
+        "dev": "vue serve OfflineAlert.vue",
+        "build": "bili --name index --plugin vue --vue.css false"
+    },
+    "files": [
+        "dist/*"
+    ],
+    "devDependencies": {
+        "bili": "^4.8.1",
+        "rollup-plugin-vue": "^5.1.2",
+        "vue-template-compiler": "^2.6.10"
+    }
+}
