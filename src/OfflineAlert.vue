@@ -44,7 +44,7 @@ export default {
 }
 </script>
 
-<style scoped>
+<style>
     .offline-alert{
         z-index: 10;
         position: fixed;
