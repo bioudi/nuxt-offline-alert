@@ -3,6 +3,10 @@
 [![npm](https://img.shields.io/npm/v/nuxt-offline-alert.svg?style=for-the-badge)](https://www.npmjs.com/package/nuxt-offline-alert)
 [![npm](https://img.shields.io/npm/dt/nuxt-offline-alert.svg?style=for-the-badge)](https://www.npmjs.com/package/nuxt-offline-alert)
 
+## Preview
+
+![](preview.gif)
+
 ## Install
 
 `npm install nuxt-offline-alert`
