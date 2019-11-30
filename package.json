@@ -6,6 +6,10 @@
     "author": "Amine Bioudi",
     "license": "MIT",
     "main": "./dist/index.js",
+    "homepage": "https://github.com/bioudi/nuxt-offline-alert",
+    "maintainers": [
+        "Amine Bioudi <bioudiamine@gmail.com> (https://aminebioudi.com)"
+    ],
     "keywords": [
         "nuxt",
         "nuxtjs",
@@ -16,7 +20,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/your-user/repo-url.git"
+        "url": "https://github.com/bioudi/nuxt-offline-alert"
     },
     "scripts": {
         "dev": "vue serve OfflineAlert.vue",
