@@ -1,7 +1,7 @@
 {
     "private": false,
     "name": "nuxt-offline-alert",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "description": "a simple vue alert for connection lost using nuxt helper",
     "author": "Amine Bioudi",
     "license": "MIT",
