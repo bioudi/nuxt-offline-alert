@@ -30,7 +30,9 @@ export default {
     },
     computed:{
         isOffline(){
-            return this.$nuxt.isOffline;
+            return  this.$nuxt.isOffline !== undefined ?
+            this.$nuxt.isOffline :
+            !navigator.onLine;
         }
     },
     watch: {
